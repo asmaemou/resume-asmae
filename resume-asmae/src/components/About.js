@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import aboutImage from "../images/about.png";
+import aboutImage from "../images/me.png";
 import Awards from "./AboutComponents/Awards";
 import Education from "./AboutComponents/Education";
 import Experience from "./AboutComponents/Experience";
