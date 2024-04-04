@@ -26,13 +26,10 @@ const About = () => {
               <p>
                 I am a student majoring in computer science at Al Akhawayn
                 University in Morocco and minoring in Mathematics at Agnes Scott
-                in US. As an experienced computer science student, I am
+                in US. I am very interested in the field of Artificial Intelligent.
+                As an experienced computer science student, I am
                 passionate about leveraging technology to solve complex
-                problems. With a track record of consistent hard work and
-                determination, I am committed to honing my skills and expanding
-                my expertise as a full stack developer. I believe that with
-                continuous learning and growth, I can drive innovative solutions
-                and make a positive impact in the tech industry.
+                problems.
               </p>
 
               <div className="tab-titles">

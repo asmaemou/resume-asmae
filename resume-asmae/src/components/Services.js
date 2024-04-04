@@ -28,16 +28,14 @@ const Services = () => {
           <div className="services-list">
             <div onClick={handleWebDesignClick}>
               <FontAwesomeIcon icon={faCode} />
-              <h2>Web Design</h2>
+              <h2>Artificial Intelligence and Machine Learning:</h2>
               {showWebDesignDescription && (
                 <p>
-                  - Create user-friendly websites.
+                  - AI-Powered Chatbot Solutions
                   <br />
-                  - Custom Website Design.
+                  - Specialization in creating intelligent chatbots powered by state-of-the-art Large Language Models (LLMs)
                   <br />
-                  - Responsive Design.
-                  <br />
-                  - User experience optimization.
+                  - Integration of the LAMA (LAnguage Model Analysis) index for refined question-answering capabilities.
                 </p>
               )}
             </div>
@@ -54,10 +52,14 @@ const Services = () => {
             </div>
             <div onClick={handleAPPDesign}>
               <FontAwesomeIcon icon={faAppStore} />
-              <h2>App Design</h2>
+              <h2>Full Stack Website and Mobile App Development</h2>
               {showAPPDesign && (
                 <p>
-                  - Design applications based on client requirements.
+                  - Expertise in developing responsive and interactive websites and mobile apps from concept to launch.
+                  <br />
+                  - Expertise in developing cross-platform mobile applications with React Native, providing a native-like experience on both iOS and Android devices.
+                  <br />
+                  - Commitment to code quality and best practices, employing version control with Git for collaborative and iterative development.
                 </p>
               )}
             </div>
